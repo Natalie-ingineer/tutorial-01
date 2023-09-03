@@ -12,6 +12,7 @@
 
 /* header */
 @import url('./header.css');
-
+/* hero */
+@import url('./hero.css');
 /* footer */
 @import url('./footer.css');

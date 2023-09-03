@@ -1,0 +1,13 @@
+.hero {
+  max-width: 428px;
+  margin: 0 auto;
+  background-image: linear-gradient(
+    rgba(46, 47, 66, 0.7),
+    rgba(46, 47, 66, 0.7)
+  );
+  background-color: var(--navyblue);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 112px 0;
+  background-position: center;
+}
