@@ -1,0 +1,26 @@
+.team{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    background-image: url(./img/98b952001792e2b836669abf4d853712.jpg);
+}
+.team-name {
+    color: aqua;
+    font-size: 50px;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+    text-transform: capitalize;
+}
+.team-text {
+    text-align: start;
+    color: brown;
+    border: 10px solid  black;
+    border-radius: 5%;
+    padding: 5px;
+    
+    max-width: 329px;
+}
+.img-team{
+
+}
